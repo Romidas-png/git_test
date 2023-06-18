@@ -1,3 +1,3 @@
 # git_test
-nice
-Hello Odin!
+nicem
+Hello Odin! im so cold
